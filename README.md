@@ -1,2 +1,3 @@
-# tls-policy-conflict-analyzer
-解析 TLS 服务端策略冲突与不安全降级的静态分析工具
+# ceph-placement-group-rebalancer
+
+规划 Ceph 归置组重平衡、故障域和恢复带宽。
